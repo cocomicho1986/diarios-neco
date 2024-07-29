@@ -141,7 +141,8 @@
 .diariosdigitales a {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
-	color: #FFF;
+	color: 0000FF; 
+	color: #00C;
 	font-weight: bold;
 }
 .se {
@@ -156,4 +157,5 @@ contacto {
 	font-style: normal;
 	color: #FFF;
 }
+
 
